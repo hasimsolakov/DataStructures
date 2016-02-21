@@ -1,0 +1,6 @@
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\07.DoubleLinkedQueue\bin\Debug\07.DoubleLinkedQueue.exe.config
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\07.DoubleLinkedQueue\bin\Debug\07.DoubleLinkedQueue.exe
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\07.DoubleLinkedQueue\bin\Debug\07.DoubleLinkedQueue.pdb
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\07.DoubleLinkedQueue\obj\Debug\07.DoubleLinkedQueue.csprojResolveAssemblyReference.cache
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\07.DoubleLinkedQueue\obj\Debug\07.DoubleLinkedQueue.exe
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\07.DoubleLinkedQueue\obj\Debug\07.DoubleLinkedQueue.pdb

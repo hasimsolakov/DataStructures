@@ -1,0 +1,8 @@
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\ArrayStackTests\bin\Debug\ArrayStackTests.dll
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\ArrayStackTests\bin\Debug\ArrayStackTests.pdb
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\ArrayStackTests\bin\Debug\03.ArrayBasedStack.exe
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\ArrayStackTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\ArrayStackTests\bin\Debug\03.ArrayBasedStack.pdb
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\ArrayStackTests\obj\Debug\ArrayStackTests.csprojResolveAssemblyReference.cache
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\ArrayStackTests\obj\Debug\ArrayStackTests.dll
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\ArrayStackTests\obj\Debug\ArrayStackTests.pdb

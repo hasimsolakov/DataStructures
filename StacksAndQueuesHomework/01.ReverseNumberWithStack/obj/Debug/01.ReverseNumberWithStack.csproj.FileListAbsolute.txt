@@ -1,0 +1,8 @@
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\01.ReverseNumberWithStack\bin\Debug\01.ReverseNumberWithStack.exe.config
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\01.ReverseNumberWithStack\bin\Debug\01.ReverseNumberWithStack.exe
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\01.ReverseNumberWithStack\bin\Debug\01.ReverseNumberWithStack.pdb
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\01.ReverseNumberWithStack\bin\Debug\IO.dll
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\01.ReverseNumberWithStack\bin\Debug\IO.pdb
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\01.ReverseNumberWithStack\obj\Debug\01.ReverseNumberWithStack.csprojResolveAssemblyReference.cache
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\01.ReverseNumberWithStack\obj\Debug\01.ReverseNumberWithStack.exe
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\01.ReverseNumberWithStack\obj\Debug\01.ReverseNumberWithStack.pdb

@@ -1,0 +1,8 @@
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\DoubleLinkedQueueTests\obj\Debug\DoubleLinkedQueueTests.csprojResolveAssemblyReference.cache
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\DoubleLinkedQueueTests\bin\Debug\DoubleLinkedQueueTests.dll
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\DoubleLinkedQueueTests\bin\Debug\DoubleLinkedQueueTests.pdb
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\DoubleLinkedQueueTests\bin\Debug\07.DoubleLinkedQueue.exe
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\DoubleLinkedQueueTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\DoubleLinkedQueueTests\bin\Debug\07.DoubleLinkedQueue.pdb
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\DoubleLinkedQueueTests\obj\Debug\DoubleLinkedQueueTests.dll
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\DoubleLinkedQueueTests\obj\Debug\DoubleLinkedQueueTests.pdb

@@ -1,0 +1,6 @@
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\09.SequenceNToM\bin\Debug\09.SequenceNToM.exe.config
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\09.SequenceNToM\bin\Debug\09.SequenceNToM.exe
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\09.SequenceNToM\bin\Debug\09.SequenceNToM.pdb
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\09.SequenceNToM\obj\Debug\09.SequenceNToM.csprojResolveAssemblyReference.cache
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\09.SequenceNToM\obj\Debug\09.SequenceNToM.exe
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\09.SequenceNToM\obj\Debug\09.SequenceNToM.pdb

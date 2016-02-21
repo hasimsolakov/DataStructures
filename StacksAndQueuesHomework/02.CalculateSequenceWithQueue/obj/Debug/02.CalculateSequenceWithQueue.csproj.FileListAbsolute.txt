@@ -1,0 +1,8 @@
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\02.CalculateSequenceWithQueue\bin\Debug\02.CalculateSequenceWithQueue.exe.config
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\02.CalculateSequenceWithQueue\bin\Debug\02.CalculateSequenceWithQueue.exe
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\02.CalculateSequenceWithQueue\bin\Debug\02.CalculateSequenceWithQueue.pdb
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\02.CalculateSequenceWithQueue\bin\Debug\IO.dll
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\02.CalculateSequenceWithQueue\bin\Debug\IO.pdb
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\02.CalculateSequenceWithQueue\obj\Debug\02.CalculateSequenceWithQueue.csprojResolveAssemblyReference.cache
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\02.CalculateSequenceWithQueue\obj\Debug\02.CalculateSequenceWithQueue.exe
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\02.CalculateSequenceWithQueue\obj\Debug\02.CalculateSequenceWithQueue.pdb

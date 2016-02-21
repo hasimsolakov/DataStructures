@@ -1,0 +1,8 @@
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\LinkedStackTests\obj\Debug\LinkedStackTests.csprojResolveAssemblyReference.cache
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\LinkedStackTests\bin\Debug\LinkedStackTests.dll
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\LinkedStackTests\bin\Debug\LinkedStackTests.pdb
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\LinkedStackTests\bin\Debug\05.LinkedStack.exe
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\LinkedStackTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\LinkedStackTests\bin\Debug\05.LinkedStack.pdb
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\LinkedStackTests\obj\Debug\LinkedStackTests.dll
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\LinkedStackTests\obj\Debug\LinkedStackTests.pdb

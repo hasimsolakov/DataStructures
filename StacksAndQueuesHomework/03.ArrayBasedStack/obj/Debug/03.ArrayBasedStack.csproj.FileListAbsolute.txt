@@ -1,0 +1,6 @@
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\03.ArrayBasedStack\bin\Debug\03.ArrayBasedStack.exe.config
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\03.ArrayBasedStack\bin\Debug\03.ArrayBasedStack.exe
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\03.ArrayBasedStack\bin\Debug\03.ArrayBasedStack.pdb
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\03.ArrayBasedStack\obj\Debug\03.ArrayBasedStack.csprojResolveAssemblyReference.cache
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\03.ArrayBasedStack\obj\Debug\03.ArrayBasedStack.exe
+c:\users\hashim\documents\visual studio 2015\Projects\StacksAndQueuesHomework\03.ArrayBasedStack\obj\Debug\03.ArrayBasedStack.pdb
