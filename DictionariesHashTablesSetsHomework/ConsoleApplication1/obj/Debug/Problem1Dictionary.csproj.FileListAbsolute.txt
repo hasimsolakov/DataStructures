@@ -1,0 +1,6 @@
+c:\users\hashim\documents\visual studio 2015\Projects\DictionariesHashTablesSetsHomework\ConsoleApplication1\obj\Debug\Problem1Dictionary.csprojResolveAssemblyReference.cache
+c:\users\hashim\documents\visual studio 2015\Projects\DictionariesHashTablesSetsHomework\ConsoleApplication1\bin\Debug\Problem1.Dictionary.exe.config
+c:\users\hashim\documents\visual studio 2015\Projects\DictionariesHashTablesSetsHomework\ConsoleApplication1\bin\Debug\Problem1.Dictionary.exe
+c:\users\hashim\documents\visual studio 2015\Projects\DictionariesHashTablesSetsHomework\ConsoleApplication1\bin\Debug\Problem1.Dictionary.pdb
+c:\users\hashim\documents\visual studio 2015\Projects\DictionariesHashTablesSetsHomework\ConsoleApplication1\obj\Debug\Problem1.Dictionary.exe
+c:\users\hashim\documents\visual studio 2015\Projects\DictionariesHashTablesSetsHomework\ConsoleApplication1\obj\Debug\Problem1.Dictionary.pdb

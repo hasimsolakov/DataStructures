@@ -1,0 +1,8 @@
+c:\users\hashim\documents\visual studio 2015\Projects\DictionariesHashTablesSetsHomework\Problem3. Phonebook\bin\Debug\Problem3.Phonebook.exe.config
+c:\users\hashim\documents\visual studio 2015\Projects\DictionariesHashTablesSetsHomework\Problem3. Phonebook\bin\Debug\Problem3.Phonebook.exe
+c:\users\hashim\documents\visual studio 2015\Projects\DictionariesHashTablesSetsHomework\Problem3. Phonebook\bin\Debug\Problem3.Phonebook.pdb
+c:\users\hashim\documents\visual studio 2015\Projects\DictionariesHashTablesSetsHomework\Problem3. Phonebook\bin\Debug\Problem1.Dictionary.exe
+c:\users\hashim\documents\visual studio 2015\Projects\DictionariesHashTablesSetsHomework\Problem3. Phonebook\bin\Debug\Problem1.Dictionary.pdb
+c:\users\hashim\documents\visual studio 2015\Projects\DictionariesHashTablesSetsHomework\Problem3. Phonebook\obj\Debug\Problem3. Phonebook.csprojResolveAssemblyReference.cache
+c:\users\hashim\documents\visual studio 2015\Projects\DictionariesHashTablesSetsHomework\Problem3. Phonebook\obj\Debug\Problem3.Phonebook.exe
+c:\users\hashim\documents\visual studio 2015\Projects\DictionariesHashTablesSetsHomework\Problem3. Phonebook\obj\Debug\Problem3.Phonebook.pdb

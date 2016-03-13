@@ -1,0 +1,8 @@
+c:\users\hashim\documents\visual studio 2015\Projects\DictionariesHashTablesSetsHomework\Problem2. CountSymbols\bin\Debug\Problem2.CountSymbols.exe.config
+c:\users\hashim\documents\visual studio 2015\Projects\DictionariesHashTablesSetsHomework\Problem2. CountSymbols\obj\Debug\Problem2. CountSymbols.csprojResolveAssemblyReference.cache
+c:\users\hashim\documents\visual studio 2015\Projects\DictionariesHashTablesSetsHomework\Problem2. CountSymbols\bin\Debug\Problem2.CountSymbols.exe
+c:\users\hashim\documents\visual studio 2015\Projects\DictionariesHashTablesSetsHomework\Problem2. CountSymbols\bin\Debug\Problem2.CountSymbols.pdb
+c:\users\hashim\documents\visual studio 2015\Projects\DictionariesHashTablesSetsHomework\Problem2. CountSymbols\bin\Debug\Problem1.Dictionary.exe
+c:\users\hashim\documents\visual studio 2015\Projects\DictionariesHashTablesSetsHomework\Problem2. CountSymbols\bin\Debug\Problem1.Dictionary.pdb
+c:\users\hashim\documents\visual studio 2015\Projects\DictionariesHashTablesSetsHomework\Problem2. CountSymbols\obj\Debug\Problem2.CountSymbols.exe
+c:\users\hashim\documents\visual studio 2015\Projects\DictionariesHashTablesSetsHomework\Problem2. CountSymbols\obj\Debug\Problem2.CountSymbols.pdb
