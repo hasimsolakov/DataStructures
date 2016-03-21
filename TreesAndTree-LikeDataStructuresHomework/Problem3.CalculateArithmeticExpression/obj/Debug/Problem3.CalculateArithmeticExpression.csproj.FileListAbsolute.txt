@@ -1,0 +1,6 @@
+C:\Users\Hashim\Documents\Visual Studio 2015\Projects\TreesAndTree-LikeDataStructuresHomework\Problem3.CalculateArithmeticExpression\bin\Debug\Problem3.CalculateArithmeticExpression.exe.config
+C:\Users\Hashim\Documents\Visual Studio 2015\Projects\TreesAndTree-LikeDataStructuresHomework\Problem3.CalculateArithmeticExpression\bin\Debug\Problem3.CalculateArithmeticExpression.exe
+C:\Users\Hashim\Documents\Visual Studio 2015\Projects\TreesAndTree-LikeDataStructuresHomework\Problem3.CalculateArithmeticExpression\bin\Debug\Problem3.CalculateArithmeticExpression.pdb
+C:\Users\Hashim\Documents\Visual Studio 2015\Projects\TreesAndTree-LikeDataStructuresHomework\Problem3.CalculateArithmeticExpression\obj\Debug\Problem3.CalculateArithmeticExpression.csprojResolveAssemblyReference.cache
+C:\Users\Hashim\Documents\Visual Studio 2015\Projects\TreesAndTree-LikeDataStructuresHomework\Problem3.CalculateArithmeticExpression\obj\Debug\Problem3.CalculateArithmeticExpression.exe
+C:\Users\Hashim\Documents\Visual Studio 2015\Projects\TreesAndTree-LikeDataStructuresHomework\Problem3.CalculateArithmeticExpression\obj\Debug\Problem3.CalculateArithmeticExpression.pdb
